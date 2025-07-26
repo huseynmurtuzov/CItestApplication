@@ -6,4 +6,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\USER-PC\Desktop\CItestApplication\CItestApplication\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\USER-PC\Desktop\CItestApplication\CItestApplication\.editorconfig" />
+  </ItemGroup>
+
 </Project>
