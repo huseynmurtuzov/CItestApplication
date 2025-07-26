@@ -16,7 +16,7 @@ namespace CItestApplication.Controllers
         public IActionResult Index()
         {
                                      var name = "elvin";
-                                     var name = "elvin";
+                                     var name1 = "elvin";
             return View();
         }
 
